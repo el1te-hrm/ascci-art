@@ -13,7 +13,7 @@
 
 using namespace std;
 
-std::string setting_url = "https://el1te-hrm.github.io/image_0.jpeg";
+std::string setting_url = "https://th.bing.com/th/id/R.4761562439325c31041a2ebec20e2079?rik=MgN0joiv314nXA&pid=ImgRaw&r=0";
 bool        setting_gamma = true;
 bool        setting_filter = true;
 bool        setting_multi = true;
